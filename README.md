@@ -83,6 +83,3 @@ Windows: run `run_tests_windows.bat`. After building the application, run `pytho
 
 Recorded verification: 45 functional tests and six real console scenarios passed on Linux. The 45 functional tests also passed AddressSanitizer and UndefinedBehaviorSanitizer; leak detection was disabled because the environment restricted thread inspection. Native Windows execution remains to be checked on a Windows PC.
 
-## Upload to GitHub
-
-Extract this ZIP, then upload its files and folders to your repository, for example `tour-guide-booking-cpp45`. Copy the actual repository URL into the project report and submission template. The complete submission package also contains the executable, report, UML diagrams and screenshots.
