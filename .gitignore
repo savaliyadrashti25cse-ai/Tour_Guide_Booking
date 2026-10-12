@@ -1,0 +1,7 @@
+/build/
+*.o
+*.tmp
+Data/records.bak
+Tests/test_data/
+Tests/system_tests
+Tests/system_tests.exe

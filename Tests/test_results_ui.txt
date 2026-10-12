@@ -1,0 +1,7 @@
+PASS | UI01 Invalid menu input and valid booking creation
+PASS | UI02 Display, ID search and restart persistence
+PASS | UI03 Text search and tourist update
+PASS | UI04 Protected deletion, cancellation and permitted deletion
+PASS | UI05 Report export and explicit reload
+PASS | UI06 Invalid date rejected through the menu
+RESULT | 6 console scenarios passed, 0 failed

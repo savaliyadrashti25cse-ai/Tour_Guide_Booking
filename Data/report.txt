@@ -1,0 +1,12 @@
+TOUR GUIDE BOOKING - SUMMARY REPORT
+Tourists: 3 | Guides: 3 | Tours: 3
+Confirmed bookings: 2 | Cancelled bookings: 1
+Confirmed participants: 5
+Confirmed booking value: INR 10200.00
+Cancelled booking value: INR 6600.00 (excluded from confirmed value)
+Amounts are booking quotations, not recorded payments.
+
+TOUR OCCUPANCY
+Tour #1 - Ahmedabad Heritage Walk: 3/10 booked; 7 remaining
+Tour #2 - Statue of Unity Tour: 2/8 booked; 6 remaining
+Tour #3 - Museum Trail: 0/12 booked; 12 remaining

@@ -1,0 +1,46 @@
+PASS | 01 Missing data starts with empty records
+PASS | 02 Add tourist and return ID
+PASS | 03 Add second tourist
+PASS | 04 Add available guides
+PASS | 05 Add tours including overlapping and adjacent dates
+PASS | 06 Blank tourist name rejected
+PASS | 07 Invalid phone rejected
+PASS | 08 Negative guide rate rejected
+PASS | 09 Zero tour capacity rejected
+PASS | 10 Nonexistent calendar date rejected
+PASS | 11 Leap day accepted and day arithmetic correct
+PASS | 12 Price quotation includes party and guide charges
+PASS | 13 Confirm booking and allocate seats
+PASS | 14 Missing tourist ID rejected
+PASS | 15 Guide date conflict rejected
+PASS | 16 Tourist date conflict rejected
+PASS | 17 Tour overcapacity rejected
+PASS | 18 Zero participants rejected
+PASS | 19 Unavailable guide rejected
+PASS | 20 Different guide can fill remaining seats
+PASS | 21 Adjacent nonoverlapping tour accepted
+PASS | 22 Update tourist and search by ID
+PASS | 23 Updating guide price preserves existing quotation
+PASS | 24 Referenced record deletion rejected
+PASS | 25 Confirmed booking deletion rejected
+PASS | 26 Capacity reduction below booked seats rejected
+PASS | 27 Booked tour schedule change rejected
+PASS | 28 Cancel booking releases seats
+PASS | 29 Repeated cancellation rejected
+PASS | 30 Cancelled guide schedule can be booked again
+PASS | 31 Report excludes cancelled value
+PASS | 32 Save and reopen restores all records
+PASS | 33 Corrupt file rejected without replacing live records
+PASS | 34 Quoted names round trip correctly
+PASS | 35 Dynamic store grows beyond initial capacity
+PASS | 36 Deletion does not reuse the last issued ID
+PASS | 37 Cancelled booking can be deleted
+PASS | 38 Runtime polymorphism displays both derived roles
+PASS | 39 Windows CRLF data loads
+PASS | 40 Backup recovery restores data when primary is missing
+PASS | 41 Duplicate persisted IDs rejected
+PASS | 42 Dangling saved booking rejected
+PASS | 43 Data write failure surfaces an error
+PASS | 44 Unknown record deletion rejected
+PASS | 45 Booking amount that rounds to zero rejected
+RESULT | 45 passed, 0 failed
